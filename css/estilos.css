@@ -1,6 +1,12 @@
 body{
     font-family:roboto;
     text-align:center;
+    background-image: repeating-linear-gradient(-45deg, 
+        #ffffff 0px,
+        #ffffff 20px,
+        #b1e0ff 20px,
+        #b1e0ff 40px);
+    background-repeat: no-repeat;
 }
 #container{
     width: 60%;
