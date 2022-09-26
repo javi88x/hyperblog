@@ -8,6 +8,18 @@ body{
         #b1e0ff 40px);
     background-repeat: no-repeat;
 }
+#cabecera{
+    background: #33a;
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container{
     width: 60%;
     padding: 1em;
